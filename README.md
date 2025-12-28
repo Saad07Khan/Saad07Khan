@@ -8,7 +8,7 @@
 
 ## About Me
 
-Computer Science student at **Vellore Institute of Technology**, focused on building practical solutions through software development and machine learning.
+Computer Science graduate from **Vellore Institute of Technology**, focused on building practical solutions through software development and machine learning.
 
 Currently working on full-stack web applications and ML projects, exploring advanced JavaScript frameworks, ML/AI, and automation.
 

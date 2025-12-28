@@ -8,7 +8,7 @@
 
 ## About Me
 
-Computer Science student at **Vellore Institute of Technology**, focused on building practical solutions through software development and machine learning.
+Computer Science graudate at **Vellore Institute of Technology**, focused on building practical solutions through software development and machine learning.
 
 Currently working on full-stack web applications and ML projects, exploring advanced JavaScript frameworks, ML/AI, and automation.
 
@@ -36,7 +36,14 @@ Currently working on full-stack web applications and ML projects, exploring adva
 ![Data Structures](https://img.shields.io/badge/-Data%20Structures-0078D4?style=flat-square)
 ![Algorithms](https://img.shields.io/badge/-Algorithms-0078D4?style=flat-square)
 
+## Contribution Graph
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saad07Khan&theme=tokyonight&hide_border=true)
+
 ## Connect
 
+I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out if you'd like to work together or just want to connect.
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://saad07khan-portfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/-Saad_Khan-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-khan-849459230)
 [![GitHub](https://img.shields.io/badge/-Saad07Khan-181717?style=flat-square&logo=github)](https://github.com/Saad07Khan)

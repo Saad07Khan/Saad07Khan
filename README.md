@@ -44,6 +44,6 @@ Currently working on full-stack web applications and ML projects, exploring adva
 
 I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out if you'd like to work together or just want to connect.
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://saad07khan-portfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://saad07khan.is-a.dev/)
 [![LinkedIn](https://img.shields.io/badge/-Saad_Khan-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-khan-849459230)
 [![GitHub](https://img.shields.io/badge/-Saad07Khan-181717?style=flat-square&logo=github)](https://github.com/Saad07Khan)

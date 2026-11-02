@@ -36,9 +36,6 @@ Currently working on full-stack web applications and ML projects, exploring adva
 ![Data Structures](https://img.shields.io/badge/-Data%20Structures-0078D4?style=flat-square)
 ![Algorithms](https://img.shields.io/badge/-Algorithms-0078D4?style=flat-square)
 
-## Contribution Graph
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saad07Khan&theme=tokyonight&hide_border=true)
 
 ## Connect
 
